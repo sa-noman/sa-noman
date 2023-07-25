@@ -16,8 +16,6 @@ Skills: HTML / CSS/Java/Python/C
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sa-noman)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sa-noman)  
-
 ![GitHub metrics](https://metrics.lecoq.io/sa-noman)  
 
 
