@@ -1,11 +1,11 @@
-### Hi there 👋, I am Abdullah Noman
+### Hi there, I am Abdullah Noman
 #### I am a web developer.
 I made this project just for fun, it allows you to create nice I'm passionate about using technology to solve problems, and I'm always looking for new ways to learn and grow. I'm excited to share my work on GitHub, and I hope to connect with other developers who share my interests.
 
 Skills: HTML / CSS/Java/Python/C
 
-- 🌱 I’m currently learning C, C+, Javascript 
-- 💬 Ask me about web developer 
+-  I’m currently learning C, C+, Javascript 
+-  Ask me about web developer 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sa-noman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanoman-bd/)  
