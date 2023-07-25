@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I am Abdullah Noman
+#### I am a web developer.
+I made this project just for fun, it allows you to create nice I'm passionate about using technology to solve problems, and I'm always looking for new ways to learn and grow. I'm excited to share my work on GitHub, and I hope to connect with other developers who share my interests.
 
-<!--
-**sa-noman/sa-noman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS/Java/Python/C
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C, C+, Javascript 
+- 💬 Ask me about web developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sa-noman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanoman-bd/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa-noman)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sa-noman)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sa-noman)  
+
+![GitHub metrics](https://metrics.lecoq.io/sa-noman)  
+
+
+
