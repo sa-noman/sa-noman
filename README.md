@@ -1,6 +1,8 @@
 ### Hi there, I am Abdullah Noman
-#### I am a web developer.
-I made this project just for fun, it allows you to create nice I'm passionate about using technology to solve problems, and I'm always looking for new ways to learn and grow. I'm excited to share my work on GitHub, and I hope to connect with other developers who share my interests.
+#### I'm a diploma engineer in computer science.
+I have a passion for coding. I'm always looking for new challenges and projects to work on. I'm also a team player and I enjoy collaborating with others.  I'm eager to learn and grow. 
+
+I'm currently working on a few personal projects, and I'm also contributing to open source projects. I'm always looking for new opportunities to learn and grow, so if you have any projects that you think I would be a good fit for, please don't hesitate to reach out.
 
 ### Skills :   
 
@@ -22,7 +24,7 @@ I made this project just for fun, it allows you to create nice I'm passionate ab
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/sa-noman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/sanoman-bd/)  
 
 ### For Business Inquiries 
- ► sanonan.bd@gmail.com
+ ► sanoman.bd@gmail.com
  <br>
  <br>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sa-noman)  
