@@ -24,7 +24,7 @@ I'm currently working on a few personal projects, and I'm also contributing to o
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/sa-noman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/sanoman-bd/)  
 
 ### For Business Inquiries 
- ► &#x sanoman.bd@gmail.com
+ ► <span> sanoman.bd@gmail.com
  <br>
  <br>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sa-noman)  
