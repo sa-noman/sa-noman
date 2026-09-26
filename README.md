@@ -1,35 +1,96 @@
-### Hi there, I am Abdullah Noman
-#### I'm a diploma engineer in computer science.
-I have a passion for coding. I'm always looking for new challenges and projects to work on. I'm also a team player and I enjoy collaborating with others.  I'm eager to learn and grow. 
+<div align="center">
 
-I'm currently working on a few personal projects, and I'm also contributing to open source projects. I'm always looking for new opportunities to learn and grow, so if you have any projects that you think I would be a good fit for, please don't hesitate to reach out.
+# Hi 👋, I'm Shah Abdullah Al Noman
 
-### Skills :   
+### AI & Automation Enthusiast | Python Developer | Cybersecurity Learner
 
-<div class="images">
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="45" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=550&lines=Building+AI+Agents;Automating+Workflows+with+Python;Exploring+Cybersecurity+%26+OSINT;Networking+%2B+Linux+Enthusiast" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/sa-noman">
+    <img src="https://img.shields.io/badge/GitHub-sa--noman-6C63FF?style=flat&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sanoman-bd/">
+    <img src="https://img.shields.io/badge/LinkedIn-sanoman--bd-6C63FF?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+
+  <a href="mailto:sanoman.bd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sanoman.bd%40gmail.com-6C63FF?style=flat&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
+</p>
+
 </div>
- <br>
-  
--  I’m currently learning C, C+, Javascript 
--  Ask me about web developer 
- <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa-noman)](https://github.com/anuraghazra/github-readme-stats)
-### Connect with me :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/sa-noman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/sanoman-bd/)  
+---
 
-### For Business Inquiries 
- ► <span> sanoman.bd@gmail.com
- <br>
- <br>
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sa-noman)  
-<br>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='25' height='25'></a> 
+## 🚀 About Me
+
+I explore Artificial Intelligence, AI Agents, automation, cybersecurity, networking, Linux, and open-source technologies. My focus is on building practical AI-powered tools and automated workflows, while currently pursuing a BSc in Computer Science & Engineering.
+
+- 🤖 Exploring **AI Agents** & intelligent automation
+- 🐍 Writing clean and efficient **Python** scripts
+- 🔐 Learning **Cybersecurity** and **OSINT**
+- 🌐 Practicing **Networking** with Cisco Packet Tracer
+- 🐧 Working with **Linux** & **Kali Linux**
+- 🧩 Integrating and building with **APIs**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,linux,kali,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sa-noman&theme=default" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sa-noman&theme=default" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sa-noman&theme=default&hide_border=false&border_radius=5" />
+
+</div>
+
+---
 
 
+</div>
 
+---
+
+## 🎯 Currently Learning
+
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-FF8A00?style=flat-square&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/OSINT-0F766E?style=flat-square&logo=googlesearchconsole&logoColor=white" />
+<img src="https://img.shields.io/badge/Networking-2563EB?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-F59E0B?style=flat-square&logo=linux&logoColor=111827" />
+
+---
+
+<div align="center">
+
+### 📫 Let's connect and build something together!
+
+</div>
