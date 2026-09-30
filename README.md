@@ -46,6 +46,9 @@ A Python news automation pipeline for RSS collection, deduplication, categorizat
 ### ⚙️ [Python Automation Projects](https://github.com/sa-noman/python-automation-projects)
 A collection of practical Python automation tools for file management, website monitoring, RSS collection, and API workflows.
 
+### 🐍 [Python Fundamentals](https://github.com/sa-noman/python-fundamentals)
+A structured collection of Python fundamentals, problem-solving exercises, OOP, file handling, standard-library practice, tests, and beginner mini projects.
+
 ### 🔐 [Cybersecurity & OSINT Labs](https://github.com/sa-noman/cybersecurity-osint-labs)
 Beginner-friendly defensive cybersecurity and OSINT labs covering Linux security, logs, HTTP headers, DNS, metadata, and source verification.
 
